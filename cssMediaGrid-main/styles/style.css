@@ -1,25 +1,70 @@
-body{
-    margin:0;
-    padding: 0;
-    background-color: #1b143f;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1b143f;
 }
 
-header{
-    height: 100px;
+header {
+  height: 100px;
 }
 
-section{
-    background-image:url(../img/bg.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    height: 100vh;
+section {
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  height: 100vh;
 }
 
-footer{
-    height: 250px;
-    background-color: #271d4c;
+footer {
+  height: 250px;
+  background-color: #271d4c;
+}
+a {
+  width: 150px;
+  height: 150 px;
+  z-index: 3;
+  background-color: aliceblue;
+}
+p {
+  background-color: #271d4c;
+  width: 200px;
+  height: 100px;
+  color: white;
+  border: white solid 5px;
+}
+.para {
+  display: flex;
+  justify-content: center;
+}
+#grid {
+  display: grid;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-rows: repeat(3, 100px);
 }
 
-/* Ecris en dessous */
+#vio {
+  grid-column: 3;
+  grid-row: 1;
+}
+#green1 {
+  grid-column: 2;
+  grid-row: 2;
+}
+#green2 {
+  grid-column: 4;
+  grid-row: 2;
+}
+#blue1 {
+  grid-column: 1;
+  grid-row: 3;
+}
+#blue2 {
+  grid-column: 3;
+  grid-row: 3;
+}
+#blue3 {
+  grid-column: 5;
+  grid-row: 3;
+}
 
