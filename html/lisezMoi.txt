@@ -1,0 +1,73 @@
+Bienvenue dans l'aventure
+Enjoy
+
+===>Vous avez pour objectif de:
+    - créer 4 pages html:
+        * une page d'accueil (nom du fichier: index.html)
+        * une page sur vos compétences et connaissances (nom du fichier: aboutMe.html)
+        * une page sur vos rêves d'apprenant (nom du fichier: myDreams.html)
+        * une page qui illustre vos différentes passions (nom du fichier: myPassions.html)
+
+Vos fichiers doivent être un dossier "img"
+ 
+La balise header doit contenir:
+
+-l'intitulé de votre futur métier
+-une phrase d'accroche
+-un menu de navigation pour rediriger vers vos autres pages (lien)
+==> conserver le même header sur toutes les pages
+
+Insérez votre copyright suivis de votre Nom Prénom 
+==> conserver le même footer sur toutes les pages
+
+Page index:
+
+La balise section doit contenir:
+
+"Mon profil" dans un titre de niveau 1
+Insérez une photo de vous (dimensions 300x300(lors du clic sur l'image celle-ci d oit s'afficher en 600x600))
+Rédigez votre parcours jusqu'à aujourd'hui (dans un paragraphe (500 caractères minimum)
+
+Page myPassions: 
+
+La balise section doit contenir:
+"Mes passions" dans un titre de niveau 1
+"(votre passion)" dans un titre de niveau 2
+Insérez une image (dimensions 300x300(lors du clic sur l'image celle-ci doit s'afficher en 600x600))
+créer une légende à votre image
+(3 passions minimum)
+
+Page myDreams:
+
+La balise section doit contenir:
+"Mes rêves d'apprenant" dans un titre de niveau 1
+"Mes objectifs personnels" dans un titre de niveau 2
+Rédigez vous objectifs personnels (dans une liste à puce(5 minimum))
+
+"Mes objectifs professionnels" dans un titre de niveau 2
+Rédigez vos objectifs proffesionnels (dans une liste à puce(5 minimum))
+
+"Mon engagement" dans un titre de niveau 2
+Rédigez vos engagements envers la formation (dans une liste à puce(5 minimum))
+
+Page aboutMe:
+
+La balise section doit contenir:
+"A propos de moi" dans un titre de niveau 1
+"Mes compétences opérationnelles" dans un titre de niveau 2
+Rédigez vos compétences opérationnelles (dans une liste à puce(3 minimum))
+
+"Mes compétences comportementales" dans un titre de niveau 2
+Rédigez vos compétences comportementales (dans une liste à puce(3 minimum))
+
+"Mes connaissances" dans un titre de niveau 2
+Créez un tableau
+Insérez vos connaisances de languages informatiques et logiciel
+Si vous avez déjà utilisé ce language et/ou logiciel ajoutez un "x" à sa droite
+
+Connecte toi sur github
+Créé un nouveau référentiel privé
+Nom du référentiel: "ton nom et prénom"
+Upload ton travail
+Quand ton travail est uploadé, vas dans réglages (gérer l'accès( ajoute moi en collaborateur)) (AymericParis0)
+..
