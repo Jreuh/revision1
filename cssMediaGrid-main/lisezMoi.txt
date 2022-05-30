@@ -1,0 +1,70 @@
+faites de l'indentation votre priorité*
+Ecrivez au moins 3 commentaires*
+
+Intro: Suite à la reconstitution des ses animaux, Aymeric s'est volatilisé avec le trésor du capitaine.
+Le capitaine Ari en colére et determiné déçida de poursuivre Aymeric jusqu'au bout de l'univers.
+Les équipes avaient vu Aymeric fuir sur la planête accrocheToi.. Il n'y a qu'un seul moyen de rejoindre Aymeric, rejoindre la colline de loinAurevoir. Par chance il y avait encore la fusée de loinAurevoir, le capitaine sauta dans la fusée....
+
+===>
+    - vous devez adapter le contenu du h1 avec vos nom/prénom
+    - vous devez trouver le moyen de placer 2 espaces entre vos nom/prénom
+    - affichez certaines lettres de vos nom/prénom en fonction de la taille d'affichage (ordinateur,tablette,téléphone)
+    - créez et affichez votre propre logo responsive en 3 versions (ordinateur,tablette,téléphone)
+    => VOIR EXEMPLES.png
+    - affichez votre logo dans l'onglet du navigateur
+
+    -appliquez la couleur #271d4c au background de votre h1
+    -appliquez la couleur blanche à votre h1
+    -appliquez une ombre à votre h1
+    -centrez votre h1
+    -attribuez une nouvelle font à votre h1 (au choix)
+
+    -Centrez votre image fusée
+    -Donnez un :hover à votre fusée (rotation 360deg avec une transition de 0.5s)
+
+
+    -Vous devez créer 3 rangées d'ALIEN à l'aide de GRID
+
+    Vous pouvez donner un nom à vos images ALIEN (class ou id)
+    Triez les aliens:
+    -rangée 1 = 3 ALIEN bleu (alien3)
+    -rangée 2 = 2 ALIEN vert (alien2)
+    -rangée 3 = 1 ALIEN violet (alien1)
+    Centrez les Aliens au millieu de la page web
+    En version *téléphone il ne doit rester qu'un ALIEN (alien violet)
+
+    => ATTENTION Vous ne pouvez pas supprimer les images ALIEN
+    ou en ajouter de nouvelles ou modifier leurs places avec HTML / Completez la balise ALT des images
+
+
+    - vous devez adapter le contenu du paragraphe (ADAPT)(intégrez un lorem ipsum)
+    - appliquez la couleur #271d4c au background de votre p
+    - changez la dimension de votre p (Largeur:200pixels)(Hauteur:100pixels)
+    - appliquez la couleur blanche à votre texte
+    - appliquez une bordure à votre p
+    - centrez votre paragraphe
+    
+
+    footer =>
+    
+    - intégrez une icone correspondant au réseau LINKEDIN (dimension 80x80)
+    - Créez un lien sur votre image (lors du click d'image) redirigant vers votre profil LINKEDIN à jour
+    - intégrez votre CV à jour (redirection dans une nouvelle page)
+    - intégrez votre copyright
+    
+
+-Bravo =)
+.... Un trou noir fais son apparition
+
+
+Quand tu as finis =>
+Tu dois m'envoyer ton travail.
+Vas sur le site Github.com
+
+Connecte toi ou inscris toi
+Créer un nouveau référentiel privé
+Nom du référentiel: "ton nom et prénom"
+Upload ton travail
+Quand ton travail est uploadé, vas dans réglages (gérer l'accès( ajoute moi en collaborateur)) (AymericParis0)
+
+ENJOY

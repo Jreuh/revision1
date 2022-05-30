@@ -1,0 +1,59 @@
+@media screen and (min-width: 900px) {
+	h1:after {
+		content: "Jean-René Decoster / Colin Calbet";
+	}
+	#logo {
+		content: url("../img/Logodesktop.png");
+	}
+}
+
+@media screen and (min-width: 640px) and (max-width: 900px) {
+	h1:after {
+		content: "JR Decoster / C Calbet";
+	}
+	#logo {
+		content: url("../img/Logotablette.png");
+	}
+}
+
+@media screen and (max-width: 640px) {
+	h1:after {
+		content: "JR.D / C.C";
+	}
+	#logo {
+		content: url("../img/Logophone.png");
+	}
+}
+
+#logo {
+	height: 70px;
+	width: 70px;
+}
+
+h1 {
+	background-color: #271d4c;
+	width: fit-content;
+	margin-right: 15px;
+	color: white;
+	text-shadow: black 5px 5px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#fusee:hover {
+	transition: 0.5s;
+	transform: rotate(360deg);
+}

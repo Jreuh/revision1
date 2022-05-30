@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: #1b143f;
+}
+
+header{
+    height: 100px;
+}
+
+section{
+    background-image:url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    height: 100vh;
+}
+
+footer{
+    height: 250px;
+    background-color: #271d4c;
+}
+
+/* Ecris en dessous */
+
