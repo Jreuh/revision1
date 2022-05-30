@@ -1,0 +1,62 @@
+Bonjour et bienvenue, afin de vous faire progresser avec le CSS je vous ait créé un exercice
+
+Intro: Ari le capitaine cendrais n'arrive plus à naviguer, modifie uniquement le CSS pour l'aider
+=> Vous ne devez pas toucher au HTML, le capitaine cendrais vous ferai passer par dessus bord..
+
+Ne supprime pas le CSS déjà écris
+Ajoute ton CSS à la suite
+
+header =>
+
+-Aligne au centre de la page "hello world" h1
+-Modifie la couleur de "hello world" h1 en blanc 
+-Déplace l'image "bateau" sur les vagues
+-Quand le bateau est déplacé sur les vagues créer une animation avec "keyframes"; 
+    -> l'animation doit faire aller le bateau jusqu'au ponton et durer 8 secondes 
+(a la fin de l'animation le bateau doit rester sur le ponton)
+
+section => 
+
+Attribue une hauteur et une largeur de 100X100pixels à chacunes des div dans section (carré)
+Attribue la couleur héxadécimal "#80CEE1" et une marge de 5 pixels à chacunes des div dans section
+A l'aide de "flexbox" aligne horizontalement les 5 div dans section
+A l'aide de "flexbox" centre horizontalement les 5 div dans section
+
+Attribue la couleur "gris" à la div dans section numéro 3
+
+A partir de tes div (carrés) créer une "div :hover" qui transformera tes carrés en cercle
+ajoute une rotation de 360degrés à ton hover
+ajoute une transition de 0.5s à ton "hover"
+
+footer => 
+
+centre le paragraphe du footer
+change la couleur du paragraphe en blanc
+modifie le fond gras "strong" en normal
+change la police du paragraphe footer en "Trebuchet MS"
+modifie la taille de la police footer à 18pixels
+
+centre ton image trésor
+Modifie le cursor souris en "grab". Cela ne s'applique qu'au trésor. 
+
+
+
+Bravo Ari le pirate cendrais apprécie ton aide et te souhaite bonne chance dans ta grande aventure.
+
+--- Quand tu as finis =>
+Tu dois m'envoyer ton travail.
+Vas sur le site Github.com
+
+Connecte toi ou inscris toi
+Créer un nouveau référentiel privé
+Nom du référentiel: "ton nom et prénom"
+Upload ton travail
+Quand ton travail est uploadé, vas dans réglages (gérer l'accès( ajoute moi en collaborateur)) (AymericParis0)
+
+ENJOY
+
+
+
+
+
+

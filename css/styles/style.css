@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #96c1f8;
+}
+
+header {
+  height: 100px;
+  /* Ecris à la suite */
+}
+
+section {
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: -20px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  height: 250px;
+  background-color: #5ee1e6;
+  display: flex;
+  justify-content: center;
+}
+#tresor {
+  cursor: grab;
+}
+p {
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+}
+strong {
+  font-weight: normal;
+}
+section :nth-child(3) {
+  background-color: gray;
+}
+div:hover {
+  border-radius: 50%;
+  transition: 0.5s;
+  transform: rotate(360deg);
+}
+section div {
+  height: 100px;
+  width: 100px;
+  background-color: #80cee1;
+  margin: 5px;
+}
