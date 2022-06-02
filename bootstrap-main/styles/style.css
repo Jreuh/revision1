@@ -1,0 +1,37 @@
+.card {
+  margin: 15px;
+  border: solid brown 5px;
+  padding: 15px;
+  margin-top: 150px;
+}
+.card-img-top {
+  max-height: 150px;
+}
+#regle {
+  border: solid 15px, black;
+}
+footer {
+  border: solid brown 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 130px;
+}
+.navbar {
+  border-bottom: 7px solid brown;
+}
+footer p {
+  border: solid 5px brown;
+  width: fit-content;
+  margin: auto;
+  padding: 15px;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+li {
+  position: relative;
+  margin: auto;
+}
