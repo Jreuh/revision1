@@ -3,6 +3,8 @@
   border: solid brown 5px;
   padding: 15px;
   margin-top: 150px;
+  min-width: 200px;
+  max-width: 300px;
 }
 .card-img-top {
   max-height: 150px;
@@ -25,6 +27,7 @@ footer p {
   width: fit-content;
   margin: auto;
   padding: 15px;
+  text-align: center;
 }
 ul {
   display: flex;
@@ -34,4 +37,26 @@ ul {
 li {
   position: relative;
   margin: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+
+}
+
+@media screen and (max-width: 768px) {
+  footer{
+    border: none;
+    flex-direction: column;
+  }
+
+  footer :nth-child(2), footer :nth-child(1){
+    margin-top:15px;
+  }
+  footer :nth-child(3){
+    display: none;
+  }
+
+  footer p{
+    width: 70%;
+  }
 }
