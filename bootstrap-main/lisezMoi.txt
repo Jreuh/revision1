@@ -1,0 +1,21 @@
+bootstrap 4.6: 
+
+Intro: Hello moussaillon(e) je suis occupé avec les ALIENS, et par dessus tout un trou noir commence à m'attirer.. 
+Aymeric m'a promis de me rendre mon trêsor si vous l'aidez!
+Aide Aymeric à développer son application avec bootstrap, pour qu'il me communique les coordonnées de sa position.
+
+Intégre la maquette de Aymeric (ordinateur,tablette,téléphone)
+Intégre bootstrap 4.6 (cdn ou local)
+Développe tes box,ton responsive avec bootstrap
+
+style: au choix
+couleur: au choix
+image: au choix
+logo: au choix
+police: au choix
+
+lorem ipsum: coordonnées GPS (au choix)
+texte: intégre tes compétences informatiques (languages,outils)
+
+
+
