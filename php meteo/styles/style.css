@@ -1,0 +1,113 @@
+.Carte{
+    display: flex;
+    justify-content: center;
+}
+
+.footImg {
+  height: 200px;
+  width: 200px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+/* NORD */
+
+.numero0{
+    position: absolute;
+     transform: translate(833px,-755px);
+}
+
+.numero1{
+    position: absolute;
+    transform: translate(889px,-735px);
+}
+
+.numero2{
+    position: absolute;
+    transform: translate(826px,-697px);
+}
+
+.numero3{
+    position: absolute;
+    transform: translate(934px,-701px);
+
+}
+
+
+/* SUD */
+
+.numero4{
+    position: absolute;
+    transform: translate(780px, -139px);
+}
+
+.numero5{
+    position: absolute;
+    transform: translate(1066px, -165px);
+}
+
+.numero6{
+    position: absolute;
+    transform: translate(681px, -165px);
+}
+
+.numero7{
+    position: absolute;
+    transform: translate(866px, -165px);
+}
+
+
+
+/* OUEST */
+
+.numero8{
+    position: absolute;
+    transform: translate(503px, -550px);
+}
+
+.numero9{
+    position: absolute;
+    transform: translate(649px, -444px);
+}
+
+.numero10{
+    position: absolute;
+    transform: translate(582px, -507px);
+}
+
+.numero11{
+    position: absolute;
+    transform: translate(611px, -550px);
+}
+
+
+
+/* EST */
+
+
+.numero12{
+    position: absolute;
+    transform: translate(1096px, -606px);
+}
+
+.numero13{
+    position: absolute;
+    transform: translate(1096px, -485px);
+}
+
+.numero14{
+    position: absolute;
+    transform: translate(1132px, -550px);
+}
+
+.numero15{
+    position: absolute;
+    transform: translate(1021px, -550px);
+}
